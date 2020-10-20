@@ -1,1 +1,2 @@
 Git commands
+Editing inside vi editor
