@@ -5,6 +5,10 @@ gsngs
 
 hhvvbv
 
+branch conflict
 
+<<<<<<< HEAD
 
 in master
+=======
+>>>>>>> newb
