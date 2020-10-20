@@ -7,9 +7,4 @@ hhvvbv
 
 
 
-<<<<<<< HEAD
-change
-=======
-
-child branch
->>>>>>> newb
+in master
