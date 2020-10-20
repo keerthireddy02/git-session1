@@ -1,14 +1,4 @@
 Check changes
 double change
 dsadd
-gsngs
 
-hhvvbv
-
-branch conflict
-
-<<<<<<< HEAD
-
-in master
-=======
->>>>>>> newb
