@@ -5,11 +5,5 @@ gsngs
 
 hhvvbv
 
+branch conflict
 
-
-<<<<<<< HEAD
-change
-=======
-
-child branch
->>>>>>> newb
