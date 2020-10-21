@@ -2,3 +2,7 @@ this changes only in branch
 hello all
 
 in newb2
+
+
+
+Stash test
