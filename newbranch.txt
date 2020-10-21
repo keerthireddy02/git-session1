@@ -6,4 +6,3 @@ in newb2
 
 
 master test
-Stash test2
